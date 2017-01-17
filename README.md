@@ -1,10 +1,10 @@
-# ZCE Group Study
-Group dedicated to study to take ZCE certification
+# Grupo de estudo ZCE
+Grupo de estudo focado na certificação ZCE
 
-## Topics
+## Tópicos
 
-### PHP Basics:
-- [ ] Syntax
+### [PHP Basics](/php-basics.md):
+- [x] Syntax
 - [ ] Operators
 - [ ] Variables
 - [ ] Control Structures
