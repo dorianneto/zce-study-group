@@ -1,11 +1,13 @@
 # Grupo de estudo ZCE
-Grupo de estudo focado na certificação ZCE
+Grupo de estudo focado na certificação ZCE com encontros toda **seg/qua/sex às 23h via hangout**.
+
+Para maiores informações ou participar do grupo, crie uma [issue](https://github.com/dorianneto/zce-study-group/issues) :)
 
 ## Tópicos
 
 ### [PHP Basics](/php-basics.md):
 - [x] Syntax
-- [ ] Operators
+- [x] Operators
 - [ ] Variables
 - [ ] Control Structures
 - [ ] Language Constructs and Functions
