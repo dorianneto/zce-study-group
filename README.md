@@ -1,5 +1,9 @@
 # Grupo de estudo ZCE
-Grupo de estudo focado na certificação ZCE com encontros toda **seg/qua/sex às 23h via hangout**.
+Grupo de estudo com encontros online destinado a programadores (não importa seu nível) que desejam tirar sua certificação ZCE.
+
+## Encontros
+
+Os encontros serão realizados **todo domingo às 14h via hangout**. A finalidade dos encontros é de revisar o que foi estudado durante a semana e planejar o que será visto na semana que se inicia.
 
 Para maiores informações ou participar do grupo, crie uma [issue](https://github.com/dorianneto/zce-study-group/issues) :)
 
